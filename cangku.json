@@ -1,53 +1,63 @@
-//=============单仓更新日期 2023/05/06=============
-
-//本单仓库在线链接：
-//https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku.json
-//https://github.com/mengzehe/TVBox/raw/main/cangku.json
-//https://cdn.staticaly.com/gh/mengzehe/tvbox/main/cangku.json
-//https://cdn.statically.io/gh/mengzehe/TVBox/main/cangku.json
+//=============单仓更新日期 2023/05/16=============
 
 {"urls":
 [
-{"url":"https://codeberg.org/jgfx/dym/raw/branch/master/master0511.json","name": "自用精选"},
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyfx/main/yyfx.json","name": "分享者线"},
-{"url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json","name": "小胡路线"},
-{"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name": "云星家庭线路"},
-{"url":"http://itvbox.cc/tvbox/云星日记/bili.m3u8","name": "云星哔哩线路"},
-//{"url":"http://itvbox.cc/tvbox/云星日记/ali.m3u8","name": "云星阿里线路"},
-{"url":"https://yydsys.top/duo","name": "多多家庭线路"},
-//{"url":"https://yydsys.top/duo/x.json","name": "多多阿里专线"},
-{"url":"https://raw.liucn.cc/box/m.json","name": "刘备线路"},
-{"url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json","name": "PyramidStore"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/a.png","name": "Lllyin路线"},
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json","name": "一木自用"},
+{"url":"https://raw.iqiq.io/jigedos/dym/master/master0511.json","name": "自用精选[516]"},
+{"url":"https://raw.iqiq.io/yyfxz/yyfx/main/yyfx.json","name": "分享者线[512]"},
+{"url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json","name": "小胡路线[511]"},
+{"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name": "云星家庭线路[未知]"},
+{"url":"http://itvbox.cc/tvbox/云星日记/bili.m3u8","name": "云星哔哩线路[未知]"},
+{"url":"https://yydsys.top/duo","name": "多多家庭线路[未知]"},
+
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/a.png","name": "Lllyin路线[515]"},
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json","name": "一木自用[320]"},
 {"url":"https://weixine.net/ysc.json","name": "运输车线"},
-{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风线路"},
-//{"url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name": "蜂蜜线路"},
-{"url":"https://ghproxy.com/raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json","name": "荷城茶秀"},
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name": "高天流云"},
-{"url":"http://52bsj.vip:98/wuai","name": "吾爱线路1"},
-{"url":"http://52bsj.vip:98/0805","name": "吾爱线路2"},
-{"url":"https://agit.ai/hu/hcr/raw/branch/master/haoh.txt","name": "四大网盘"},
-{"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路"},
-{"url":"http://tvbo.run.goorm.site/tangs.json","name": "唐三线路"},
-{"url":"http://饭太硬.ga/tv/","name": "饭太硬线"},
-{"url":"https://tvbox.cainisi.cf","name": "菜妮丝线" },
-//{"url":"http://home.jundie.top:81/top98.json","name": "俊佬线路"}, 
-{"url":"https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json","name": "香雅情线"}, 
-{"url":"http://52bsj.vip:98/cl","name":"宝盒汇线"},
-{"url":"http://9xi4o.tk/0725.json","name": "云盘线路"},
-{"url":"https://dybz.store/dybz","name": "大眼线路"},
-{"url":"http://www.dmtv.ml/mao/single.json","name": "乱世线路"},
-{"url":"https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json","name": "免软线路"},
-//{"url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json","name": "巧计线路"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/zhuiju.json","name": "JS影视剧"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/py/py.json","name": "PY影视剧"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/dongman.json","name": "动漫专线"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/tsmv.json","name": "影音专线"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/ali.json","name": "阿里4K线"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/jiaoyu.json","name": "教育专线"},
-//{"url":"https://agit.ai/376242575/zzh/raw/branch/master/体育﹠直播.txt","name": "体育直播"},
-{"url":"https://agit.ai/376242575/py/raw/branch/py/1/py.txt","name": "央视回放"}
+{"url":"https://ghproxy.com/raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json","name": "荷城茶秀[429]"},
+{"url":"https://raw.iqiq.io/gaotianliuyun/gao/master/0820.json","name": "高天流云1[515]"},
+{"url":"https://raw.iqiq.io/gaotianliuyun/gao/master/0826.json","name": "高天流云2[515]"},
+{"url":"https://raw.iqiq.io/gaotianliuyun/gao/master/0827.json","name": "高天流云3[515]"},
+{"url":"https://raw.iqiq.io/gaotianliuyun/gao/master/0828.json","name": "高天流云4[515]"},
+{"url":"https://raw.iqiq.io/gaotianliuyun/gao/master/9918.json","name": "高天流云5[515]"},
+{"url":"https://raw.iqiq.io/gaotianliuyun/gao/master/js.json","name": "高天流云6[515]"},
+  {"url":"https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json","name": "FongMi[516]"},
+{"url":"http://52bsj.vip:98/wuai","name": "吾爱线路1[515]"},
+{"url":"http://52bsj.vip:98/0805","name": "吾爱线路2[515]"},
+{"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路[402]"},
+{"url":"http://tvbo.run.goorm.site/tangs.json","name": "唐三线路[507]"},
+{"url":"http://饭太硬.ga/tv/","name": "饭太硬线[509]"},
+{"url":"https://tvbox.cainisi.cf","name": "菜妮丝线[422]" },
+
+{"url":"https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json","name": "香雅情线[503]"}, 
+{"url":"http://52bsj.vip:98/cl","name":"宝盒汇线[514]"},
+{"url":"http://9xi4o.tk/0725.json","name": "云盘线路[510]"},
+{"url":"https://dybz.store/dybz","name": "大眼线路[512]"},
+{"url":"http://www.dmtv.ml/mao/single.json","name": "乱世线路[419]"},
+{"url":"https://raw.iqiq.io/yyfxz/fl/main/fl.json","name": "浮力[419]"},
+  {"url":"https://raw.iqiq.io/FongMi/CatVodSpider/main/json/adult.json","name": "FongMi浮力[516]"},
+  {"url":"https://raw.iqiq.io/FongMi/CatVodSpider/main/json/alist.json","name": ""FongMi-alist[516]"},
+  {"url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json","name": "霜辉月明[515]"},
+  {"url":"https://raw.iqiq.io/52670576/tvbox/main/ysc.json","name": "运输车[516]"},
+  {"url":"https://download.kstore.space/download/2863/01.txt","name": "潇洒[未知]"},
+{"url":"https://raw.iqiq.io/chengxueli818913/maoTV/main/%E6%96%B0%E5%BB%BA%20%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A38.txt","name": "佰欣园1[510]"},
+{"url":"https://raw.iqiq.io/chengxueli818913/maoTV/main/%E6%96%B0%E5%BB%BA%20%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3%20(7).txt","name": "佰欣园2[510]"},
+{"url":"https://raw.iqiq.io/chengxueli818913/maoTV/main/44.txt","name": "佰欣园44[510]"},
+{"url":"https://raw.iqiq.io/dxawi/0/main/0.json","name": "Ray[510]"},
+{"url":"https://raw.iqiq.io/dxawi/0/main/tangs.json","name": "tang[514]"},
+
+{"url":"https://raw.iqiq.io/jigedos/dc/main/json/111118.jsom","name": "浮力[512]"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json","name":"浮力yyfxz1[511]"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json","name":"浮力yyfxz2[511]"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json","name":"浮力yyfxz3[511]"}
+{"url":"https://raw.githubusercontent.com/xcxc8/xc8/main/hot","name": "浮力蜂蜜在线[511]"},
+{"url":"http://52bsj.vip:98/18dxwoai","name": "吾爱在线[511]"},
+{"url":"https://raw.iqiq.io/jie20091116/cat/main/TVBOX/se.json","name": "星云线路[0101]"},
+{"url":"https://huhujunxx.neocities.org/AV.json","name": "Huhujun线路[未知]"},
+{"url":"http://52bsj.vip:81/api/v3/file/get/68420/fl%E6%8E%A5%E5%8F%A3.txt?sign=yowqWMosWpA9ssTwrUNhZKsf_HE8J_RY2mOnY3YBGEw%3D%3A0","name": "星河1[未知]"},
+{"url":"http://52bsj.vip:81/api/v3/file/get/68422/%E9%A3%9E%E6%9C%BA3%20.txt?sign=XOk1BCFag1pL-xqE9sBExIcApSt_qGrVo7DLlV-FMDk%3D%3A0","name": "星河2[未知]"},
+
+{"url":"http://52bsj.vip:81/api/v3/file/get/68421/%E9%A3%9E%E6%9C%BA2.txt?sign=5QKm8I2Ovt10UywCyZcGXY7S9LN32e4OR_3wBw0jBJk%3D%3A0","name": "辅助带飞[未知]"},
+{"url":"http://52bsj.vip:81/api/v3/file/get/65805/%E4%BA%BA%E4%BA%BA%E9%A3%9E%E6%9C%BA.txt?sign=NsiWQIsvkHQukAmfGvrz1NbVDw2YY1-axLDdKW6i_1g%3D%3A0","name": "野带飞[未知]"},
+
 
 ]
 }
