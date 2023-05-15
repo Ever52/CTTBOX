@@ -12,32 +12,18 @@
       "url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
       "name": "小胡路线[511]"
     },
-    {
-      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-      "name": "云星家庭线路[未知]"
-    },
-    {
-      "url": "http://itvbox.cc/tvbox/云星日记/bili.m3u8",
-      "name": "云星哔哩线路[未知]"
-    },
+
     {
       "url": "https://yydsys.top/duo",
       "name": "多多家庭线路[未知]"
     },
-    {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/a.png",
-      "name": "Lllyin路线[515]"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
-      "name": "一木自用[320]"
-    },
+
     {
       "url": "https://weixine.net/ysc.json",
       "name": "运输车线[未知]"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+      "url": "https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json",
       "name": "荷城茶秀[429]"
     },
     {
@@ -48,26 +34,7 @@
       "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0826.json",
       "name": "高天流云2[515]"
     },
-    {
-      "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0827.json",
-      "name": "高天流云3[515]"
-    },
-    {
-      "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0828.json",
-      "name": "高天流云4[515]"
-    },
-    {
-      "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/9918.json",
-      "name": "高天流云5[515]"
-    },
-    {
-      "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/js.json",
-      "name": "高天流云6[515]"
-    },
-    {
-      "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
-      "name": "FongMi[516]"
-    },
+
     {
       "url": "http://52bsj.vip:98/wuai",
       "name": "吾爱线路1[515]"
@@ -80,10 +47,7 @@
       "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
       "name": "肥猫线路[402]"
     },
-    {
-      "url": "http://tvbo.run.goorm.site/tangs.json",
-      "name": "唐三线路[507]"
-    },
+
     {
       "url": "http://饭太硬.ga/tv/",
       "name": "饭太硬线[509]"
@@ -92,10 +56,7 @@
       "url": "https://tvbox.cainisi.cf",
       "name": "菜妮丝线[422]"
     },
-    {
-      "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
-      "name": "香雅情线[503]"
-    },
+
     {
       "url": "http://52bsj.vip:98/cl",
       "name": "宝盒汇线[514]"
@@ -104,23 +65,13 @@
       "url": "http://9xi4o.tk/0725.json",
       "name": "云盘线路[510]"
     },
-    {
-      "url": "https://dybz.store/dybz",
-      "name": "大眼线路[512]"
-    },
-    {
-      "url": "http://www.dmtv.ml/mao/single.json",
-      "name": "乱世线路[419]"
-    },
+
    
-    {
-      "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/alist.json",
-      "name": "FongMi-alist[516]"
+      {
+      "url": "https://raw.iqiq.io/jigedos/dym/master/PRO.json",
+      "name": "月光宝盒[516]"
     },
-    {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-      "name": "霜辉月明[515]"
-    },
+
     {
       "url": "https://raw.iqiq.io/52670576/tvbox/main/ysc.json",
       "name": "运输车[516]"
@@ -129,38 +80,17 @@
       "url": "https://download.kstore.space/download/2863/01.txt",
       "name": "潇洒[未知]"
     },
-    {
-      "url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/%E6%96%B0%E5%BB%BA%20%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A38.txt",
-      "name": "佰欣园1[510]"
-    },
-    {
-      "url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/%E6%96%B0%E5%BB%BA%20%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3%20(7).txt",
-      "name": "佰欣园2[510]"
-    },
-    {
-      "url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/44.txt",
-      "name": "佰欣园44[510]"
-    },
+   
     {
       "url": "https://raw.iqiq.io/dxawi/0/main/0.json",
       "name": "Ray[510]"
     },
-    {
-      "url": "https://raw.iqiq.io/dxawi/0/main/tangs.json",
-      "name": "tang[514]"
-    },
+ 
     {
       "url": "https://raw.iqiq.io/jigedos/dc/main/json/111118.jsom",
       "name": "浮力[512]"
     },
-     {
-      "url": "https://raw.iqiq.io/yyfxz/fl/main/fl.json",
-      "name": "浮力[419]"
-    },
-    {
-      "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/adult.json",
-      "name": "FongMi浮力[516]"
-    },
+
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json",
       "name": "浮力yyfxz1[511]"
@@ -173,10 +103,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json",
       "name": "浮力yyfxz3[511]"
     },
-    {
-      "url": "https://raw.githubusercontent.com/xcxc8/xc8/main/hot",
-      "name": "浮力蜂蜜在线[511]"
-    },
+
     {
       "url": "http://52bsj.vip:98/18dxwoai",
       "name": "吾爱在线[511]"
@@ -200,10 +127,6 @@
     {
       "url": "http://52bsj.vip:81/api/v3/file/get/68421/%E9%A3%9E%E6%9C%BA2.txt?sign=5QKm8I2Ovt10UywCyZcGXY7S9LN32e4OR_3wBw0jBJk%3D%3A0",
       "name": "辅助带飞[未知]"
-    },
-    {
-      "url": "http://52bsj.vip:81/api/v3/file/get/65805/%E4%BA%BA%E4%BA%BA%E9%A3%9E%E6%9C%BA.txt?sign=NsiWQIsvkHQukAmfGvrz1NbVDw2YY1-axLDdKW6i_1g%3D%3A0",
-      "name": "野带飞[未知]"
     }
     ],
     "vip": [
