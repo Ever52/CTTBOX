@@ -32,10 +32,12 @@
             "name": "⏰小苹果[0522]"
         }, 
     
- 
+    {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dc/main/json/dayan.json",
+            "name": "⏰大眼[0522]"
+        }, 
     
-    
-    
+        
     
     
     
@@ -162,8 +164,14 @@
     },
     {
       "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-      "name": "⭐云星日记[516]"
+      "name": "⭐云星日记[522]"
     },
+       {
+      "url": "http:/itvbox.cc/tvbox/云星日记/bili.m3u8",
+      "name": "⭐云星BILI[522]"
+    },
+    
+    
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/⏰/files/master/m.json",
       "name": "Ⓜ️M线路[516]"
@@ -178,6 +186,7 @@
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json",
       "name": "⛅星云线路[0101]"
     },
+    
 
     {
       "url": "http://52bsj.vip:81/api/v3/file/get/68420/fl%E6%8E%A5%E5%8F%A3.txt?sign=yowqWMosWpA9ssTwrUNhZKsf_HE8J_RY2mOnY3YBGEw%3D%3A0",
