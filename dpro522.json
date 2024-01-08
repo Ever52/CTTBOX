@@ -1,40 +1,30 @@
 {
   "urls": [
- 
+  {
+      "url": "",
+      "name": "🍄【非凡圈子】体验仓🍄"
+    },
     {
       "url": "https://pastebin.com/raw/5NHaxyGR",
-      "name": "🍄【非凡圈子】体验仓🍄"
+      "name": "🍄推荐线路🍄"
     },
         {
       "url": " http://肥猫.live",
-      "name": "🍄肥猫🍄"
+      "name": "🍄线路一🍄"
     },
   
     {
       "url": "https://tvbox.cainisi.cf",
-      "name": "🍄菜妮丝XBPQ🍄"
-    },
-    {
-      "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json ",
-      "name": "🍄运输车VIP🍄"
-    },
-    {
-      "url": "https://usercontent.githubfast.com/raw/guot55/YGBH/main/vip2.json",
-      "name": "🍄月光宝盒106🍄"
-    },
-  
-    {
-      "url": "http://cdn.qiaoji8.com/tvbox.json",
-      "name": "🍄qiaoji8🍄"
+      "name": "🍄线路二🍄"
     },
        {
       "url": "https://cn.kstore.space/download/2863/01.txt",
-      "name": "🍄潇洒🍄"
+      "name": "🍄线路三🍄"
     },   
     
     {
       "url": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/config.json",
-      "name": "🍄蜂蜜🍄"
+      "name": "🍄线路四🍄"
     }
   ]
 }
